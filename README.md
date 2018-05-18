@@ -7,3 +7,4 @@
 1 http://blog.csdn.net/z82367825/article/details/51599245  博客上有相关介绍
 <br/>
 2 动手实现，动手实现，动手实现，重要的事情说三遍
+https://github.com/zhanmusi2323/BezierMaster-master/blob/master/app/src/main/res/mipmap-hdpi/bezier.gif
